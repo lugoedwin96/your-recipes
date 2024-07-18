@@ -1,0 +1,26 @@
+.recipes-title {
+    text-align: center;
+}
+
+.recipe-list li {
+    display: inline-block;
+}
+
+.recipe-list-container {
+    text-align: center;
+}
+
+.salad-image {
+    height: 100px;
+    width: 100px;
+}
+
+.burrito-image {
+    height: 100px;
+    width: 100px;
+}
+
+.muffuleta-image {
+    height: 100px;
+    width: 100px;
+}
